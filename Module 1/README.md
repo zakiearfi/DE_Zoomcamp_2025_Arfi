@@ -120,6 +120,11 @@ docker-compose down
     terraform apply
     ```
 
+5. Delete the architecture:
+   ```bash
+   terraform destroy
+   ```
+
 
 ## Overview Homework
 here is the explanation of the answers. all the documentations are store as a screenshot on folder Data/Answers (note: answer number 3-6 can check on [homework_question.sql](homework_question.sql) ):
