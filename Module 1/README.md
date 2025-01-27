@@ -122,7 +122,7 @@ docker-compose down
 
 
 ## Overview Homework
-here is the explanation of the answers. all the documentations are store as a screenshot on folder Data/Answers (note: answer number 3-6 can check on [homework_question.sql](homework_question.sql)):
+here is the explanation of the answers. all the documentations are store as a screenshot on folder Data/Answers (note: answer number 3-6 can check on [homework_question.sql](homework_question.sql) ):
 
 ### Question 1. Understanding docker first run
 Run docker with the python:3.12.8 image in an interactive mode, use the entrypoint bash.
